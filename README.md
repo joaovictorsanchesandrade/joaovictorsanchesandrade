@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao meu Perfil do GitHub!
 
-Olá! 👋 Eu sou **João Pirocudo**, um jovem programador, apaixonado por tecnologia, filosofia e desenvolvimento pessoal. Atualmente, estou no ensino médio, mas já trabalho em projetos de marketing local e busco construir uma base sólida para alcançar grandes objetivos no futuro. 🚀
+Olá! 👋 Eu sou **{{USERNAME}}**, um jovem programador, apaixonado por tecnologia, filosofia e desenvolvimento pessoal. Atualmente, estou no ensino médio, mas já trabalho em projetos de marketing local e busco construir uma base sólida para alcançar grandes objetivos no futuro. 🚀
 
 ---
 
