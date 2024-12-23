@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao meu Perfil do GitHub!
 
-Olá! 👋 Eu sou **{{USERNAME}}**, um jovem programador, apaixonado por tecnologia, filosofia e desenvolvimento pessoal. Atualmente, estou no ensino médio, mas já trabalho em projetos de marketing local e busco construir uma base sólida para alcançar grandes objetivos no futuro. 🚀
+Olá! 👋 Eu sou **João Victor Sanches**, um jovem programador, apaixonado por tecnologia, filosofia e desenvolvimento pessoal. Atualmente, estou no ensino médio, mas já trabalho em projetos de marketing local e busco construir uma base sólida para alcançar grandes objetivos no futuro. 🚀
 
 ---
 
@@ -53,9 +53,7 @@ Olá! 👋 Eu sou **{{USERNAME}}**, um jovem programador, apaixonado por tecnolo
 
 ## 🌐 Onde me Encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/joaopirocudo) *(personalize com seu link real)*
-- 🐦 [Twitter](https://twitter.com/joaopirocudo) *(personalize com seu link real)*
-- 📷 [Instagram](https://instagram.com/joaopirocudo) *(personalize com seu link real)*
+- 📷 [Instagram](https://instagram.com/._jvsanches) *(personalize com seu link real)*
 - 📬 **E-mail:** joaopirocudo@gmail.com
 
 ---
