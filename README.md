@@ -40,14 +40,13 @@ Olá! 👋 Eu sou **João Victor Sanches**, um jovem programador, apaixonado por
 
 - Visual Studio Code 🖥️
 - Git & GitHub 🛠️
-- Firebase 🔥
 - Linux/Ubuntu 🐧
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![João Pirocudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopirocudo&show_icons=true&theme=radical)
+![João Victor Sanches's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=radical)
 
 ---
 
