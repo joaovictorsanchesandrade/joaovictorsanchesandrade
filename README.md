@@ -53,8 +53,8 @@ Olá! 👋 Eu sou **João Victor Sanches**, um jovem programador, apaixonado por
 
 ## 🌐 Onde me Encontrar
 
-- 📷 [Instagram](https://instagram.com/._jvsanches) *(personalize com seu link real)*
-- 📬 **E-mail:** joaopirocudo@gmail.com
+- 📷 [Instagram](https://instagram.com/._jvsanches)
+- 📬 **E-mail:** joaovictorsanchesandradeestuda@gmail.com
 
 ---
 
