@@ -12,21 +12,19 @@ Olá! 👋 Eu sou **João Victor Sanches**, um jovem programador, apaixonado por
   - Trazer muitas inovações para o projeto
 - 🌍 **Moro sozinho:** Aproveitando a liberdade para crescer pessoal e profissionalmente.
 - 📚 **Habilidades:** 
-  - Programação em **Dart**, **Python** e **JavaScript**.
-  - Desenvolvimento de projetos criativos e inovadores.
+  - Domino linguagens de Programação: **Dart** e **Python**
+  - Um grande rascionio para criar boas soluções.
 - ❤️ **Interesses:**
-  - Tecnologia, filosofia e música com significado profundo.
-  - Gêneros musicais variados como hip-hop, rap, pop, jazz, rock, phonk, metal, pagode, forró e sofrência.
-  - Conexões emocionais e impacto positivo nas pessoas ao meu redor.
-
+  - Linguagens de programação
+  - Criptografia
+  - Inteligencia Artificial
+  - Todo ramoo da tecnologia
 ---
 
 ## 🚀 Minhas Metas
 
-- 📈 Desenvolvimento financeiro e criação de uma base sólida de conhecimento.
-- 📉 Reduzir o tempo gasto em redes sociais para focar no que importa.
+- 📈 Me torna um grande empressario no ramo da tecnologia
 - 💻 Conquistar a estabilidade como programador e trabalhar em projetos impactantes.
-- 🧠 Tornar-me mais responsável e autossuficiente.
 
 ---
 
@@ -34,8 +32,7 @@ Olá! 👋 Eu sou **João Victor Sanches**, um jovem programador, apaixonado por
 
 - **Dart**: Desenvolvimento rápido e eficiente para aplicativos modernos.
 - **Python**: Scripts poderosos e análise de dados.
-- **JavaScript**: Desenvolvimento web dinâmico e interativo.
-
+- 
 ---
 
 ## 🛠️ Ferramentas & Plataformas
