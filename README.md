@@ -3,7 +3,7 @@
   <img src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGif.gif" alt="GIF" style="width:auto; height:auto"/>
 </a>
 
-<h1 align="left">Opa, tranquilo? 🙏 Eu sou João Victor Sanches</h1>
+<h1 align="left">Opa, tranquilo?  Eu sou João Victor Sanches</h1>
 
 <h4 align="left">🌟 Trabalho com desenvolvimento Front-end e design de sites quando estou entediado, mas meu foco principal é em Ciência de Dados e IA/ML. Estou cursando Ciência da Computação e aprendendo programação para minha carreira. Atualmente, estou trabalhando no desenvolvimento das minhas habilidades de programação e explorando a área de TI para adquirir um grande conhecimento. O objetivo? Fazer Dinheiro 💸. </h4>
 
