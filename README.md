@@ -1,72 +1,47 @@
-# 🌟 **Bem-vindo ao meu Perfil do GitHub!**
+<!-- MasterHead -->
+<a href="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGif.gif">
+  <img src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGif.gif" alt="GIF" style="width:auto; height:auto"/>
+</a>
 
-Olá! 👋 Eu sou **João Victor Sanches**, um jovem programador apaixonado por tecnologia, filosofia e desenvolvimento pessoal.  
-Atualmente, estou no ensino médio, mas já estou mergulhando em diversos projetos e trabalhando para construir uma base sólida — tanto financeira quanto intelectual — para alcançar grandes objetivos no futuro. 🚀
+<h1 align="center">Namaste 🙏 Eu sou [Seu Nome]</h1>
 
----
+<h4 align="left">🌟 Trabalho com desenvolvimento Front-end e design de sites quando estou entediado, mas meu foco principal é em Ciência de Dados e IA/ML. Estou cursando Ciência da Computação e aprendendo programação para minha carreira. Atualmente, estou trabalhando no desenvolvimento das minhas habilidades de programação e explorando a área de TI para adquirir um grande conhecimento. O objetivo? Fazer Dinheiro 💸. </h4>
 
-## 🧑‍💻 **Sobre Mim**
+<h2>💫 Sobre Mim</h2>
+<img align="right" alt="coding-gif" width="400" src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGifTransparente.gif">
 
-- 🎓 **Idade:** 16 anos  
-- 💡 **Objetivos:**  
-  - Tornar-me um grande **empresário** no ramo da tecnologia  
-  - **Inovar** e criar soluções impactantes em meus projetos  
-- 🌍 **Independência:**  
-  Moro sozinho, aproveitando a liberdade para crescer pessoal e profissionalmente.  
-- 📚 **Habilidades:**  
-  - **Linguagens de Programação:** **Dart** e **Python**  
-  - **Raciocínio lógico** para criação de soluções eficientes  
+<h4> 
+  🌱 Atualmente, estou trabalhando no desenvolvimento das minhas habilidades em programação.</br>
+  🔭 Já trabalhei com [tecnologias].</br>
+  💬 Pergunte-me sobre [linguagens ou tópicos de interesse].</br>
+  ⚡ Tenho interesse em Inteligência Artificial, Machine Learning, Deep Learning, Ciência de Dados, Automação, e Desenvolvimento de Blockchain.</br>
+  ✨ Eu só gosto de perfeição.</h4>
 
-- ❤️ **Interesses:**  
-  - Linguagens de programação  
-  - **Criptografia**  
-  - **Inteligência Artificial**  
-  - Inovações tecnológicas em geral  
+<h3>🌟 Me Encontre Aqui:</h3>
+<a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+<a href="https://www.linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 
----
+<h2 align="center">📚 Linguagens & Ferramentas Que Eu Já Usei</h2>
 
-## 🚀 **Minhas Metas**
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+</div>
 
-- 📈 **Tornar-me um empresário** de destaque no ramo da tecnologia  
-- 💻 **Alcançar estabilidade** como programador e trabalhar em projetos de grande impacto
+<h2 align="center">💻 Meu Tech Stack:</h2>
+<div align="center">
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+   <!-- Adicione mais ícones conforme sua stack -->
+</div>
 
----
+<h2 align="center">Me Apoie 💰</h2>
 
-## ⚒️ **Tecnologias que Domino**
+<p align="center">
+  <a href="https://www.buymeacoffee.com/seunome"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="seunome" /></a>
+</p>
 
-- **Dart**: Desenvolvimento rápido e eficiente para aplicativos modernos  
-- **Python**: Scripts poderosos para automação e análise de dados
-
----
-
-## 🛠️ **Ferramentas & Plataformas**
-
-- **Visual Studio Code** 🖥️  
-- **Git & GitHub** 🛠️  
-- **Linux/Ubuntu** 🐧  
-
----
-
-## 📊 **Estatísticas do GitHub**
-
-![João Victor Sanches's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=radical)
-
----
-
-## 🌐 **Onde me Encontrar**
-
-- 📷 [Instagram](https://instagram.com/._jvsanches)  
-- 📬 **E-mail:** [joaovictorsanchesandradeestuda@gmail.com](mailto:joaovictorsanchesandradeestuda@gmail.com)  
-
----
-
-## 📝 **Curiosidades Sobre Mim**
-
-- Sou **romântico** e **observador**, sempre atento aos detalhes  
-- Não tenho medo de **arriscar**, mas busco fazer isso de forma planejada  
-- Valorizo **aprendizado** e **crescimento constante**
-
----
-
-✨ **Obrigado por visitar o meu perfil!** ✨  
-Se você gostou do meu trabalho ou quer trocar ideias, não hesite em entrar em contato! 😄
+<a href="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/OutroGif.gif"><img src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/OutroGif.gif" alt="Outro GIF" style="width:auto; height:auto"/></a>
