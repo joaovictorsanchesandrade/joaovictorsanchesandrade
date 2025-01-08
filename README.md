@@ -24,9 +24,9 @@
 <h2 align="center">📚 Linguagens & Ferramentas Que Eu Já Usei</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+ <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,kali,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
 <h2 align="center">💻 Meu Tech Stack:</h2>
