@@ -11,11 +11,8 @@
 <img align="right" alt="coding-gif" width="400" src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGifTransparente.gif">
 
 <h4> 
-  🌱 Atualmente, estou trabalhando no desenvolvimento das minhas habilidades em programação.</br>
-  🔭 Já trabalhei com [tecnologias].</br>
-  💬 Pergunte-me sobre [linguagens ou tópicos de interesse].</br>
   ⚡ Tenho interesse em Inteligência Artificial, Machine Learning, Deep Learning, Ciência de Dados, Automação, e Desenvolvimento de Blockchain.</br>
-  ✨ Eu só gosto de perfeição.</h4>
+  </h4>
 
 <h3>🌟 Me Encontre Aqui:</h3>
 <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
