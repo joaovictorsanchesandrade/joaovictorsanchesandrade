@@ -41,10 +41,6 @@
    <!-- Adicione mais ícones conforme sua stack -->
 </div>
 
-<h2 align="center">Me Apoie 💰</h2>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/seunome"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="seunome" /></a>
-</p>
 
 <a href="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/OutroGif.gif"><img src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/OutroGif.gif" alt="Outro GIF" style="width:auto; height:auto"/></a>
