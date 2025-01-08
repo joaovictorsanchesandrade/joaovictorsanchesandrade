@@ -12,12 +12,12 @@
 
 <h4> 
   ⚡ Tenho interesse em 
-  <a href="https://www.google.com/search?q=Inteligência+Artificial" target="_blank"><img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Inteligência Artificial" /></a>, 
-  <a href="https://www.google.com/search?q=Machine+Learning" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" /></a>, 
-  <a href="https://www.google.com/search?q=Deep+Learning" target="_blank"><img src="https://img.shields.io/badge/Deep%20Learning-008CFF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" /></a>, 
-  <a href="https://www.google.com/search?q=Ciência+de+Dados" target="_blank"><img src="https://img.shields.io/badge/Data%20Science-4C1D77?style=for-the-badge&logo=python&logoColor=white" alt="Ciência de Dados" /></a>, 
-  <a href="https://www.google.com/search?q=Automação" target="_blank"><img src="https://img.shields.io/badge/Automation-5C6BC0?style=for-the-badge&logo=robot&logoColor=white" alt="Automação" /></a>, 
-  <a href="https://www.google.com/search?q=Blockchain" target="_blank"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain" /></a>.
+  <a href="https://www.google.com/search?q=Inteligência+Artificial" target="_blank"><img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Inteligência Artificial" /></a></br>
+  <a href="https://www.google.com/search?q=Machine+Learning" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" /></a></br> 
+  <a href="https://www.google.com/search?q=Deep+Learning" target="_blank"><img src="https://img.shields.io/badge/Deep%20Learning-008CFF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" /></a></br>
+  <a href="https://www.google.com/search?q=Ciência+de+Dados" target="_blank"><img src="https://img.shields.io/badge/Data%20Science-4C1D77?style=for-the-badge&logo=python&logoColor=white" alt="Ciência de Dados" /></a></br>
+  <a href="https://www.google.com/search?q=Automação" target="_blank"><img src="https://img.shields.io/badge/Automation-5C6BC0?style=for-the-badge&logo=robot&logoColor=white" alt="Automação" /></a></br>
+  <a href="https://www.google.com/search?q=Blockchain" target="_blank"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain" /></a>
 </h4>
 
 
