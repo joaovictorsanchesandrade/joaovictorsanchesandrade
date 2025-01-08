@@ -15,8 +15,8 @@
   </h4>
 
 <h3>🌟 Me Encontre Aqui:</h3>
-<a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-<a href="https://www.linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<a href="mailto:proficional.jvsanche199@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+<a href="https://www.instagram.com/_.jvsanches" target="_blank"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <h2 align="center">📚 Linguagens & Ferramentas Que Eu Já Usei</h2>
 
