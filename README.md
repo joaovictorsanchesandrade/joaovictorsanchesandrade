@@ -1,5 +1,5 @@
 <!-- MasterHead -->
-<div align="center">
+<div align="left">
   <img src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGif.gif" alt="Header GIF" style="max-width: 100%; height: auto;">
 </div>
 
