@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Sobre Mim
-<div align="center">
+<div align="left">
   <img align="right" alt="coding-gif" width="350" src="https://github.com/SeuNomeDeUsuario/SeuRepositorio/blob/main/seuGifTransparente.gif">
 
 ```python
