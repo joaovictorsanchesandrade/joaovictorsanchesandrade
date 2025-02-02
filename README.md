@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=SeuNomeDeUsuario&color=blue&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=joaovictorsanchesandrade&color=blue&style=flat" alt="Profile Views">
 </div>
 
 ---
