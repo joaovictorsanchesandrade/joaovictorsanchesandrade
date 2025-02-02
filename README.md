@@ -7,7 +7,7 @@
 <h3 align="center">Desenvolvedor em Ascensão | Cientista de Dados | Entusiasta de IA/ML</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats">
   <br>
   <img src="https://komarev.com/ghpvc/?username=SeuNomeDeUsuario&color=blue&style=flat" alt="Profile Views">
 </div>
