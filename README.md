@@ -1,7 +1,7 @@
 <!-- Wave Divider -->
 <h1 align="rigth">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514754/11542/meow_code.gif?1643514754" width="30">
-  Olá, eu sou João Victor Sanches
+  Olá, eu sou João Sanches
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
