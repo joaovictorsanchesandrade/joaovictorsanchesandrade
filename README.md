@@ -1,6 +1,4 @@
 <!-- Wave Divider -->
-<img src="https://github.com/joaovictorsanchesandrade/joaovictorsanchesandrade/blob/main/assets/wave.svg" width="100%" height="150">
-
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514754/11542/meow_code.gif?1643514754" width="30">
   Olá, eu sou João Victor Sanches
