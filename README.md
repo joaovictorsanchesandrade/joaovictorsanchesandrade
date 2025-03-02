@@ -1,11 +1,11 @@
 <!-- Wave Divider -->
-<h1 align="center">
+<h1 align="rigth">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514754/11542/meow_code.gif?1643514754" width="30">
   Olá, eu sou João Victor Sanches
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
-<h3 align="rigth">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Desenvolvedor;Empreendedor" alt="Typing SVG">
 </h3>
 
