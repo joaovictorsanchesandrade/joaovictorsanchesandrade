@@ -6,12 +6,12 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Desenvolvedor;Empreendedor;Visionário" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Desenvolvedor;Empreendedor" alt="Typing SVG">
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Sempre+aprendendo+novas+tecnologias;Transformando+dados+em+solu%C3%A7%C3%B5es;Building+the+future+with+code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Resolver+problemas+é+a+minha+especialidade;Building+the+future+with+code" alt="Typing SVG">
   </a>
 </p>
 
