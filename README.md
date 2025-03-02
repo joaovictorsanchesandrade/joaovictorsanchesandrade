@@ -15,34 +15,20 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaovictorsanchesandrade&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
-  <img src="https://wakatime.com/badge/user/8f4a3b7d-8a1a-4d5c-9b3a-7d9f4b3c5d2f.svg" alt="Wakatime">
-  <img src="https://img.shields.io/github/followers/joaovictorsanchesandrade?label=Followers&style=social" alt="GitHub Followers">
-</div>
-
 ---
 
 ### 🧑💻 Sobre Mim
 
 ```python
-class DataScientist:
-    def __init__(self):
-        self.name = "João Victor Sanches"
-        self.traits = ["Curioso", "Persistente", "Analítico"]
-        self.learning = ["Deep Learning", "Cloud Computing", "Big Data"]
-        self.passion = "Resolver problemas complexos usando dados"
-    
-    def get_skills(self):
-        return {
-            'Linguagens': ['Python', 'SQL', 'R'],
-            'ML': ['Scikit-learn', 'TensorFlow', 'PyTorch'],
-            'Ferramentas': ['Pandas', 'Spark', 'Tableau']
-        }
-
-if __name__ == '__main__':
-    me = DataScientist()
+class Life:
+  """
+    Meio doido, mas sempre resolvendo problemas.
+  """
+  def __init__(self):
+    self.nome  = "João Victor Sanches Andrade"
+    self.idade = 16
 ```
+
 🛠️ Tech Stack
 📚 Linguagens Principais
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> </div>
@@ -58,8 +44,8 @@ if __name__ == '__main__':
 <img src="https://img.icons8.com/color/14/000000/big-data.png"/> Big Data Technologies
 
 📫 Conecte-se Comigo
-<div align="center"> <a href="mailto:proficional.jvsanche199@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/seu-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.kaggle.com/seukaggle"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"> </a> <a href="https://www.instagram.com/_.jvsanches"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div>
+<div align="center"> <a href="mailto:proficional.jvsanche199@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.instagram.com/_.jvsanches"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div>
 🎧 Spotify Playing
 Spotify
 
-<!-- Wave Divider --><img src="https://github.com/joaovictorsanchesandrade/joaovictorsanchesandrade/blob/main/assets/wave.svg" width="100%" height="150">
+
