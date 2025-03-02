@@ -34,7 +34,7 @@ class Life:
 <div align="rigth"> <h4>📚 Linguagens Principais</h4> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <h4>🚀 Frameworks & Ferramentas</h4> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> </div>
 
 ### 📊 GitHub Stats
-<div align="rigth"> <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Langs"> </div>
+<div align="rigth"> <img src="https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsanchesandrade&layout=compact&theme=radical" alt="Top Langs"> </div>
 
 ### 📫 Conecte-se Comigo
 <div align="rigth"> <a href="mailto:proficional.jvsanche199@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.instagram.com/_.jvsanches"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>  </div>
