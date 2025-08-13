@@ -29,6 +29,18 @@
 
 ---
 
+## 📄 Catálogo de documentos
+- [Dicas](tips/tips.md)  
+> Obs: Vou atualizando conforme mais documentos forem adicionados
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsanchesandrade&layout=compact&theme=radical)
+
+---
 
 ## 📬 Contato
 - 📧 Email: joaovictorsanchesandradeestuda@gmail.com  
