@@ -1,6 +1,6 @@
 @echo off
 :: URL da imagem
-set "URL=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkwdpsr0dfzR2DMwGQ9vyDfx0_2yHrNdPSw&s"
+set "URL=https://images.famososvideos.net/2017/11/17257/capa.jpg"
 
 :: Caminho temporário para salvar a imagem
 set "IMG=%TEMP%\imagem.jpg"
