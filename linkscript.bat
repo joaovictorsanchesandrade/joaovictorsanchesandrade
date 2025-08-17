@@ -1,6 +1,6 @@
 @echo off
 :: URL da imagem
-set "URL=https://via.placeholder.com/300"
+set "URL=https://homenspelados.blog/wp-content/uploads/2023/07/kid-bengala-pelado-mostrando-sua-rola-enorme-2389.jpg"
 
 :: Caminho temporário para salvar a imagem
 set "IMG=%TEMP%\imagem.jpg"
