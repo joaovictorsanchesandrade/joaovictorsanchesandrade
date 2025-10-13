@@ -3,10 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Reels Vertical Estilizado</title>
+<title>Reels Vertical</title>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 <style>
-    /* Reset e fonte */
     * {
         margin: 0;
         padding: 0;
@@ -35,42 +34,29 @@
     /* Vídeo vertical estilo Reels */
     video {
         height: 100%;
-        aspect-ratio: 9/16; /* vertical */
+        aspect-ratio: 9/16;
         object-fit: cover;
         border-radius: 15px;
         box-shadow: 0 0 30px rgba(0,0,0,0.5);
     }
 
-    /* Overlay para melhorar contraste de textos */
+    /* Overlay sutil para destacar botões */
     .overlay {
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        background: linear-gradient(to top, rgba(0,0,0,0.6), rgba(0,0,0,0));
+        background: linear-gradient(to top, rgba(0,0,0,0.4), rgba(0,0,0,0));
         z-index: 2;
         pointer-events: none;
     }
 
-    /* Título do vídeo */
-    h1 {
-        position: absolute;
-        bottom: 70px;
-        left: 20px;
-        right: 20px;
-        color: #fff;
-        font-size: 2rem;
-        font-weight: 700;
-        text-shadow: 2px 2px 10px rgba(0,0,0,0.7);
-        z-index: 3;
-    }
-
-    /* Botões de interação na lateral */
+    /* Botões de interação */
     .actions {
         position: absolute;
         right: 15px;
-        bottom: 80px;
+        bottom: 50px;
         display: flex;
         flex-direction: column;
         gap: 20px;
@@ -98,13 +84,13 @@
         transform: scale(1.2);
     }
 
-    /* Indicador de progresso estilo Reels */
+    /* Barra de progresso no topo */
     .progress-bar {
         position: absolute;
         top: 15px;
         left: 10px;
         right: 10px;
-        height: 5px;
+        height: 4px;
         background: rgba(255,255,255,0.3);
         border-radius: 5px;
         overflow: hidden;
@@ -125,16 +111,15 @@
         100% { width: 100%; }
     }
 
-    /* Responsividade para celulares pequenos */
+    /* Responsividade */
     @media (max-width: 500px) {
-        h1 {
-            font-size: 1.5rem;
-            bottom: 60px;
-        }
         .actions button {
             width: 45px;
             height: 45px;
             font-size: 1.3rem;
+        }
+        .progress-bar {
+            height: 3px;
         }
     }
 </style>
