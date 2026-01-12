@@ -2,18 +2,22 @@ Desenvolvedor em início de carreira, com foco em construir soluções simples, 
 
 ---
 
+## 🌐 Portfólio
+
+🔗 https://joaovictorsanchesandrade.github.io/joaovictorsanchesandrade/
+
+---
+
 ## Competências
 
-* Python, SQL
-* Linux, Docker
-* Lógica de programação, automação e boas práticas
+* Python, SQL  
+* Linux, Docker  
+* Lógica de programação, automação e boas práticas  
 
 ---
 
 ## Perfil
 
-* Desenvolvedor autodidata
-* Foco em clareza, organização e evolução técnica
-* Interesse em resolver problemas de forma objetiva
-
-
+* Desenvolvedor autodidata  
+* Foco em clareza, organização e evolução técnica  
+* Interesse em resolver problemas de forma objetiva  
