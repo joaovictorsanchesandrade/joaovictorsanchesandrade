@@ -1,43 +1,30 @@
-# 👋 Olá, eu sou João Victor!
+# 👋 Olá, eu sou João Victor
 
-🎮 Jovem programador de 17 anos | Apaixonado por tecnologia e inovação | Explorador de novas ideias  
-
----
-
-## 💻 Stack & Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Sou desenvolvedor em início de carreira, com forte interesse em tecnologia, programação e construção de soluções práticas. Tenho 17 anos e foco em aprendizado contínuo, projetos reais e evolução técnica consistente.
 
 ---
 
-## 🔥 Sobre mim
-- Tenho 17 anos e adoro **aprender sempre**  
-- Apaixonado por **programação e tecnologia**  
-- Curto criar **projetos que misturam criatividade e código**  
-- Sempre buscando **evoluir e experimentar coisas novas**
+## 💻 Stack & Competências
+
+* **Linguagens:** Python, SQL
+* **Infraestrutura & Ferramentas:** Docker, Linux
+* **Conceitos:** Lógica de programação, automação, organização de projetos e estudo de boas práticas
 
 ---
 
-## 🚀 O que você encontra aqui
-- 📚 **Referências e dicas de programação**  
-- 📝 **Documentos de estudo e cheatsheets**  
-- ⚡ **Projetos pessoais e experimentos**  
+## 🧠 Sobre mim
 
----
-
-## 📄 Catálogo de documentos
-- [Dicas](tips/tips.md)  
-> Obs: Vou atualizando conforme mais documentos forem adicionados
-
----
+* Desenvolvedor autodidata, sempre em busca de novos conhecimentos
+* Interesse em criar soluções eficientes e bem estruturadas
+* Gosto de aprender na prática, através de projetos e experimentos reais
+* Comprometido com evolução técnica e profissional
 
 ## 📬 Contato
-- 📧 Email: jvsanchesandrade199@outlook.com
-- 🌐 LinkedIn: [Meu perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/)  
-- 🐦 X: [@Jvsanches101](https://twitter.com/Jvsanches101)  
+
+* 📧 **Email:** [jvsanchesandrade199@outlook.com](mailto:jvsanchesandrade199@outlook.com)
+* 💼 **LinkedIn:** [João Victor Sanches Andrade](https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/)
+* 🐦 **X (Twitter):** [@Jvsanches101](https://twitter.com/Jvsanches101)
 
 ---
 
-> "Programar é a arte de transformar café em código ☕💻"
+> *"Código bem escrito é aquele que resolve o problema de forma simples, clara e sustentável."*
