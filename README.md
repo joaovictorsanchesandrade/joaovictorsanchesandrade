@@ -16,9 +16,4 @@ Desenvolvedor em início de carreira, com foco em construir soluções simples, 
 * Foco em clareza, organização e evolução técnica
 * Interesse em resolver problemas de forma objetiva
 
----
 
-## Contato
-
-* Email: [jvsanchesandrade199@outlook.com](mailto:jvsanchesandrade199@outlook.com)
-* LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/](https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/)
