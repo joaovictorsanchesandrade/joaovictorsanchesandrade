@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Victor!
 
-🎮 Jovem programador de 16 anos | Apaixonado por tecnologia e inovação | Explorador de novas ideias  
+🎮 Jovem programador de 17 anos | Apaixonado por tecnologia e inovação | Explorador de novas ideias  
 
 ---
 
