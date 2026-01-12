@@ -3,152 +3,188 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>João Victor | Desenvolvedor</title>
+  <title>João Victor | Dev_Terminal</title>
+
   <style>
+    :root {
+      --bg-color: #050505;
+      --terminal-green: #00ff41;
+      --dim-green: #008f11;
+      --text-gray: #b0b0b0;
+      --border-color: #1a1a1a;
+      --accent-bg: #0d0d0d;
+    }
+
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen;
+      font-family: 'Courier New', Courier, monospace;
     }
 
     body {
-      background-color: #0f172a;
-      color: #e5e7eb;
+      background: var(--bg-color);
+      color: var(--text-gray);
       line-height: 1.6;
+    }
+
+    /* Scanline effect para vibe underground */
+    body::before {
+      content: " ";
+      display: block;
+      position: fixed;
+      top: 0; left: 0; bottom: 0; right: 0;
+      background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), 
+                  linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+      z-index: 9999;
+      background-size: 100% 3px, 3px 100%;
+      pointer-events: none;
     }
 
     .container {
       max-width: 900px;
       margin: auto;
-      padding: 60px 20px;
+      padding: 0 25px;
+    }
+
+    header {
+      padding: 100px 0 50px;
+      border-bottom: 1px solid var(--border-color);
     }
 
     h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
+      font-size: clamp(1.5rem, 6vw, 2.8rem);
+      color: var(--terminal-green);
+      text-transform: uppercase;
+      letter-spacing: -1px;
+    }
+
+    h1::after {
+      content: "_";
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink { 0% { opacity: 0; } 50% { opacity: 1; } 100% { opacity: 0; } }
+
+    section {
+      padding: 60px 0;
+      border-bottom: 1px solid var(--border-color);
     }
 
     h2 {
-      font-size: 1.4rem;
-      margin-bottom: 20px;
-      color: #38bdf8;
-    }
-
-    p {
-      color: #cbd5f5;
-      margin-bottom: 20px;
-    }
-
-    section {
-      margin-bottom: 60px;
-    }
-
-    .skills span {
+      color: var(--terminal-green);
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+      text-transform: uppercase;
+      background: rgba(0, 255, 65, 0.1);
       display: inline-block;
-      background: #1e293b;
-      padding: 8px 14px;
-      border-radius: 20px;
-      margin: 6px 6px 0 0;
-      font-size: 0.9rem;
-    }
-
-    .projects {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
+      padding: 2px 10px;
     }
 
     .card {
-      background: #020617;
-      padding: 20px;
-      border-radius: 12px;
-      border: 1px solid #1e293b;
+      background: var(--accent-bg);
+      border: 1px solid var(--border-color);
+      padding: 30px;
+      margin-bottom: 20px;
     }
 
-    .card h3 {
+    .card:hover {
+      border-color: var(--dim-green);
+    }
+
+    .highlight { color: var(--terminal-green); font-weight: bold; }
+
+    .status-tag {
+      font-size: 0.8rem;
+      border: 1px solid var(--dim-green);
+      padding: 2px 8px;
+      color: var(--terminal-green);
       margin-bottom: 10px;
-      color: #e5e7eb;
-    }
-
-    .card p {
-      font-size: 0.95rem;
-    }
-
-    .links a {
       display: inline-block;
-      margin-right: 15px;
-      color: #38bdf8;
+    }
+
+    .contact-link {
+      color: var(--terminal-green);
       text-decoration: none;
-      font-weight: 500;
+      border-bottom: 1px dashed var(--dim-green);
+    }
+
+    .contact-link:hover {
+      background: var(--terminal-green);
+      color: #000;
     }
 
     footer {
+      padding: 40px 0;
       text-align: center;
-      color: #64748b;
-      font-size: 0.9rem;
-    }
-
-    @media (max-width: 600px) {
-      h1 {
-        font-size: 2rem;
-      }
+      font-size: 0.8rem;
+      opacity: 0.6;
     }
   </style>
 </head>
 <body>
 
-  <main class="container">
+<header>
+  <div class="container">
+    <div class="status-tag">SYSTEM_USER: JOÃO_VICTOR</div>
+    <h1>João Victor Sanches Andrade</h1>
+    <p style="margin-top: 20px; max-width: 700px;">
+      Desenvolvedor Backend & Automação[cite: 33, 34, 41]. Atualmente focado no ecossistema da startup <span class="highlight">Dectus</span> e aprimoramento de sistemas escaláveis com Python.
+    </p>
+  </div>
+</header>
 
-    <section>
-      <h1>João Victor Sanches Andrade</h1>
-      <p>Desenvolvedor em início de carreira, focado em soluções simples, eficientes e bem estruturadas. Aprendizado contínuo orientado à prática.</p>
-    </section>
+<section id="work">
+  <div class="container">
+    <h2>Experiencia_Atual</h2>
+    <div class="card">
+      <span class="highlight">Dectus (Startup)</span> | Março de 2023 — Presente
+      <p style="margin-top: 15px;">
+        Atuação no desenvolvimento core da startup. Foco em criação e manutenção de projetos com múltiplas tecnologias [cite: 40], automação de processos internos [cite: 41] e integração de APIs críticas para o negócio[cite: 42].
+      </p>
+    </div>
+  </div>
+</section>
 
-    <section>
-      <h2>Competências</h2>
-      <div class="skills">
-        <span>Python</span>
-        <span>SQL</span>
-        <span>Linux</span>
-        <span>Docker</span>
-        <span>Automação</span>
-        <span>Boas práticas</span>
-      </div>
-    </section>
+<section id="education">
+  <div class="container">
+    <h2>Educação_Logs</h2>
+    <div class="card">
+      <span class="highlight">Ensino Médio (3º Ano)</span>
+      <p>Previsão de Conclusão: Dezembro de 2026</p>
+      <p style="font-size: 0.9rem; margin-top: 10px; color: #777;">
+        Focado em conciliar a formação acadêmica com a prática profissional em desenvolvimento de software[cite: 33].
+      </p>
+    </div>
+  </div>
+</section>
 
-    <section>
-      <h2>Projetos</h2>
-      <div class="projects">
-        <div class="card">
-          <h3>Projeto Backend</h3>
-          <p>Aplicação focada em lógica de negócio, organização de código e boas práticas.</p>
-        </div>
-        <div class="card">
-          <h3>Automação</h3>
-          <p>Scripts para automatizar tarefas repetitivas utilizando Python.</p>
-        </div>
-        <div class="card">
-          <h3>Estudos Técnicos</h3>
-          <p>Repositórios voltados a estudos práticos e documentação técnica.</p>
-        </div>
-      </div>
-    </section>
+<section id="skills">
+  <div class="container">
+    <h2>Stack_Tecnica</h2>
+    <p>
+      > PYTHON [cite: 45]<br>
+      > LÓGICA DE PROGRAMAÇÃO [cite: 46]<br>
+      > AUTOMAÇÃO DE PROCESSOS [cite: 47]<br>
+      > GIT / GITHUB [cite: 48]<br>
+      > API INTEGRATION [cite: 49]<br>
+      > WEB FUNDAMENTALS (HTML/CSS/JS) [cite: 50]
+    </p>
+  </div>
+</section>
 
-    <section>
-      <h2>Contato</h2>
-      <div class="links">
-        <a href="mailto:jvsanchesandrade199@outlook.com">Email</a>
-        <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/" target="_blank">LinkedIn</a>
-        <a href="https://github.com/" target="_blank">GitHub</a>
-      </div>
-    </section>
+<section id="contact">
+  <div class="container">
+    <h2>Protocolo_Conexao</h2>
+    <p>EMAIL: <a href="mailto:jvsanchesandrade199@outlook.com" class="contact-link">jvsanchesandrade199@outlook.com</a> [cite: 30]</p>
+    <p>TEL: (11) 91697-1891 [cite: 30]</p>
+    <p>GIT: <a href="https://github.com/joaovictorsanchesandrade" target="_blank" class="contact-link">github.com/joaovictorsanchesandrade</a> [cite: 31]</p>
+  </div>
+</section>
 
-    <footer>
-      © 2026 · João Victor
-    </footer>
-
-  </main>
+<footer>
+  ESTADO: OPERACIONAL // 2026 // EMBU-GUAÇU_SP [cite: 30]
+</footer>
 
 </body>
 </html>
