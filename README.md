@@ -34,7 +34,7 @@
 ---
 
 ## 📬 Contato
-- 📧 Email: joaovictorsanchesandradeestuda@gmail.com  
+- 📧 Email: jvsanchesandrade199@outlook.com
 - 🌐 LinkedIn: [Meu perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/)  
 - 🐦 X: [@Jvsanches101](https://twitter.com/Jvsanches101)  
 
