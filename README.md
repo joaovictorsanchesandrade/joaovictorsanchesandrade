@@ -33,13 +33,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovictorsanchesandrade&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsanchesandrade&layout=compact&theme=radical)
-
----
-
 ## 📬 Contato
 - 📧 Email: joaovictorsanchesandradeestuda@gmail.com  
 - 🌐 LinkedIn: [Meu perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-sanches-andrade-5511b8322/)  
