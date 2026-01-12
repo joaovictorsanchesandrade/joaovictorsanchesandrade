@@ -4,7 +4,7 @@ Desenvolvedor em início de carreira, com foco em construir soluções simples, 
 
 ## 🌐 Portfólio
 
-🔗 https://joaovictorsanchesandrade.github.io/joaovictorsanchesandrade/
+🔗 [Meu portfólio](https://joaovictorsanchesandrade.github.io/joaovictorsanchesandrade/)
 
 ---
 
