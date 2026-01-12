@@ -1,9 +1,5 @@
 Desenvolvedor em início de carreira, com foco em construir soluções simples, eficientes e bem estruturadas. Atuação orientada ao aprendizado contínuo e à prática por meio de projetos reais.
 
----
-
-## 🌐 Portfólio
-
 🔗 [Meu portfólio](https://joaovictorsanchesandrade.github.io/joaovictorsanchesandrade/)
 
 ---
