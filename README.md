@@ -1,19 +1,42 @@
-Desenvolvedor em início de carreira, com foco em construir soluções simples, eficientes e bem estruturadas. Atuação orientada ao aprendizado contínuo e à prática por meio de projetos reais.
+# 👋 Olá, eu sou João Victor Sanches Andrade
 
-🔗 [Meu portfólio](https://joaovictorsanchesandrade.github.io/joaovictorsanchesandrade/)
-
----
-
-## Competências
-
-* Python, SQL  
-* Linux, Docker  
-* Lógica de programação, automação e boas práticas  
+💻 Desenvolvedor de Software apaixonado por tecnologia, backend e infraestrutura.
 
 ---
 
-## Perfil
+## 🚀 Sobre mim
 
-* Desenvolvedor autodidata  
-* Foco em clareza, organização e evolução técnica  
-* Interesse em resolver problemas de forma objetiva  
+Sou desenvolvedor focado na criação de aplicações web escaláveis, APIs e ambientes de produção utilizando boas práticas de desenvolvimento e DevOps.
+
+Tenho experiência trabalhando com desenvolvimento backend, containerização e servidores Linux.
+
+---
+
+## 🧰 Minha Stack
+
+- 🐍 Python
+- 🌐 Django
+- 🐳 Docker
+- ⚡ Nginx
+- 🐧 Linux
+
+---
+
+## 📌 Tecnologias & Interesses
+
+- Desenvolvimento Web Backend
+- APIs REST
+- Deploy e Infraestrutura
+- Containers e Virtualização
+- Otimização de Performance
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/seu-usuario
+- Email: jvsanchesandrade199@outlook.com
+
+---
+
+⭐ Sempre aprendendo, construindo e evoluindo.
